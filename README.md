@@ -1,1 +1,1 @@
-# Myocardial-infarction_prediction
+# Myocardial-infarction-prediction
